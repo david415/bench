@@ -5,4 +5,4 @@ require Colorized from git "https://github.com/axiomed/Colorized.lean.git"
 
 package "bench" where
 
-lean_lib «Bench» where
+lean_lib Bench where
