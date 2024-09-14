@@ -11,5 +11,5 @@
    "inputRev": null,
    "inherited": false,
    "configFile": "lakefile.lean"}],
- "name": "bench",
+ "name": "Bench",
  "lakeDir": ".lake"}
